@@ -70,3 +70,7 @@ https://secjong.tistory.com/2
 <br>
 
 - git rm -r . 복구하기 : git reset --hard HEAD
+
+- GH001: Large files detected.
+
+-> 이 후 과정에서 막혔음. db_project 살려내 
